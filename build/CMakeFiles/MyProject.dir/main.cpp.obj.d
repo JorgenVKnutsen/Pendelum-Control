@@ -143,4 +143,9 @@ CMakeFiles/MyProject.dir/main.cpp.obj: E:\cpp_projects\pendelum\main.cpp \
  C:/gcc_/mingw64/include/c++/14.2.0/bits/vector.tcc \
  E:\cpp_projects\pendelum\doublependelum.h \
  C:/gcc_/mingw64/include/c++/14.2.0/cmath \
- C:/gcc_/mingw64/x86_64-w64-mingw32/include/math.h
+ C:/gcc_/mingw64/x86_64-w64-mingw32/include/math.h \
+ C:/gcc_/mingw64/include/c++/14.2.0/fstream \
+ C:/gcc_/mingw64/include/c++/14.2.0/bits/codecvt.h \
+ C:/gcc_/mingw64/include/c++/14.2.0/x86_64-w64-mingw32/bits/basic_file.h \
+ C:/gcc_/mingw64/include/c++/14.2.0/x86_64-w64-mingw32/bits/c++io.h \
+ C:/gcc_/mingw64/include/c++/14.2.0/bits/fstream.tcc
